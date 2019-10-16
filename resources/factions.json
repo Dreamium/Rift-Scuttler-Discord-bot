@@ -1,0 +1,32 @@
+{
+  "Demacia": {
+    "color": "#efefef",
+    "1": "https://img.rankedboost.com/wp-content/uploads/2017/08/flag_base_1_inventory.png",
+    "2": "https://img.rankedboost.com/wp-content/uploads/2017/08/7e69219681950f62.png",
+    "3": "https://img.rankedboost.com/wp-content/uploads/2017/08/d2e01409b3b1a082.png"
+  },
+  "Freljord": {
+    "color": "#efefef",
+    "1": "https://img.rankedboost.com/wp-content/uploads/2017/08/flag_freljord_1_inventory.png",
+    "2": "https://img.rankedboost.com/wp-content/uploads/2017/08/flag_freljord_2_inventory.png",
+    "3": "https://img.rankedboost.com/wp-content/uploads/2017/08/flag_freljord_3_inventory.png"
+  },
+  "Piltover": {
+    "color": "#efefef",
+    "1": "https://img.rankedboost.com/wp-content/uploads/2017/08/flag_piltover_1_profile.png",
+    "2": "https://img.rankedboost.com/wp-content/uploads/2017/08/flag_piltover_2_profile.png",
+    "3": "https://img.rankedboost.com/wp-content/uploads/2017/08/flag_piltover_3_profile.png"
+  },
+  "Shadow Isles": {
+    "color": "#efefef",
+    "1": "https://img.rankedboost.com/wp-content/uploads/2017/08/flag_shadowisles_1_inventory.png",
+    "2": "https://img.rankedboost.com/wp-content/uploads/2017/08/flag_shadowisles_2_inventory.png",
+    "3": "https://img.rankedboost.com/wp-content/uploads/2017/08/flag_shadowisles_3_inventory.png"
+  },
+  "Zaun": {
+    "color": "#efefef",
+    "1": "https://img.rankedboost.com/wp-content/uploads/2017/08/flag_zaun_1_inventory.png",
+    "2": "https://img.rankedboost.com/wp-content/uploads/2017/08/flag_zaun_2_inventory.png",
+    "3": "https://img.rankedboost.com/wp-content/uploads/2017/08/flag_zaun_3_inventory.png"
+  }
+}
